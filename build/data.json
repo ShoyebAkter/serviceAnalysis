@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Erikson",
+        "img": "photos/eriksen.jpg",
+        "title": "Very good ball,very easy to play with",
+        "rating": "4"
+    },
+    {
+        "id":2,
+        "name": "Diogo jota",
+        "img": "photos/jota.webp",
+        "title": "Very well designed",
+        "rating": "5"
+    },
+    {
+        "id":3,
+        "name": "Lewandowski",
+        "img": "photos/lewandowski.webp",
+        "title": "Soft and easy to kick",
+        "rating": "4.5"
+    },
+    {
+        "id":4,
+        "name": "Messi",
+        "img": "photos/messi.jpg",
+        "title": "Easy to dribble with and easy to shoot",
+        "rating": "5"
+    },
+    {
+        "id":5,
+        "name": "William",
+        "img": "photos/martinez.webp",
+        "title": "One of the best world cup football ever",
+        "rating": "3.6"
+    },
+    {
+        "id":6,
+        "name": "Mbappe",
+        "img": "photos/mbappe.jpg",
+        "title": "Easy to dribble with and easy to shoot",
+        "rating": "4"
+    }
+]
